@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgClaseFunciones", "ProgC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsola", "TestConsola\TestConsola.csproj", "{300A1EC6-240D-4D0E-A15B-FB62ABCDCE4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEscritorio", "TestEscritorio\TestEscritorio.csproj", "{F49C47B7-A729-42D8-AD5F-89EAE8596D85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{300A1EC6-240D-4D0E-A15B-FB62ABCDCE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{300A1EC6-240D-4D0E-A15B-FB62ABCDCE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{300A1EC6-240D-4D0E-A15B-FB62ABCDCE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49C47B7-A729-42D8-AD5F-89EAE8596D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49C47B7-A729-42D8-AD5F-89EAE8596D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49C47B7-A729-42D8-AD5F-89EAE8596D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49C47B7-A729-42D8-AD5F-89EAE8596D85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

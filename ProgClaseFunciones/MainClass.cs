@@ -15,8 +15,8 @@ namespace ProgClaseFunciones
         /// <returns></returns>
         public string FnParImpar(int num)
         {
-            if (num % 2 == 0) return "El numero es par";
-            else return "El numero ingresado es impar";
+            if (num % 2 == 0) return "Par";
+            else return "Impar";
         }
 
         /// <summary>
